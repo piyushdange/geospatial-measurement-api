@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+geospatial.db
+
+data/uploads/*
+data/extracted/*
+
+.vscode/
+.env
